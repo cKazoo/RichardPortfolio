@@ -1,6 +1,6 @@
 # Richard Pang Resume
 
-##** Education History**
+##Education History
 McIntosh Highschool 2022-Present
 
 ##  Employment History
