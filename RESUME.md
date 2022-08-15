@@ -1,3 +1,4 @@
 # Richard Pang Resume
 
-## **Education History**
+**## Education History**
+##   Education
