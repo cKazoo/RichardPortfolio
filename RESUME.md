@@ -1,11 +1,12 @@
 # Richard Pang Resume
 
 ## Education History
-McIntosh Highschool 2022-Present
+-cIntosh Highschool 2022-Present
 
 ##  Employment History
-
+-None
 
 ## Hobbies
-Playing Videogames
-Talking with friends.
+-Playing Video Games
+-Talking with friends
+-Cook
