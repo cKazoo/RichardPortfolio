@@ -4,7 +4,7 @@
 - McIntosh Highschool 2022-Present
 
 ##  Employment History
-- None
+- McIntosh Highschool Student
 
 ## Hobbies
 - Playing Video Games
