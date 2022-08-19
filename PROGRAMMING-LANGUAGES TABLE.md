@@ -2,7 +2,5 @@
 
 | Language Name | Creator | Major Uses | Popular Libraries | Compiler/Interpreter Programming Language | Jobs and Salaries  |
 | --------------| ------- | ---------- | ----------------- | ----------------------------------------- | -------------------|
-| Python |
+| Python | Guido van Rossum | Web, GUI, Scientific, System Administration |
 | C | | | | | | |
-| X | |A| | | | |
-| Y | A A A
