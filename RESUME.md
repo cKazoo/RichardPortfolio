@@ -10,3 +10,6 @@
 - Playing Video Games
 - Talking with friends
 - Cook
+## Typing
+
+- Learned J, F, and Space
