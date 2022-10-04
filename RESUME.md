@@ -11,5 +11,5 @@
 - Talking with friends
 - Cook
 ## Typing
-- 52 WPM
+- 54 WPM
 - Learned J, F, and Space
